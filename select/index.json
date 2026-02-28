@@ -1,32 +1,16 @@
 {
   "version": 1,
-  "base_track": "とても素敵な六月でした",
+  "base_track": "とても素敵な六月でした（feat. 宵崎奏、朝比奈まふゆ、東雲絵名、暁山瑞希）",
   "base_artist": "25時、ナイトコードで。",
-  "createdAt": "2025-12-06T06:22:20.995273Z",
+  "createdAt": "2026-02-28T09:22:22.945303Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "とても素敵な六月でした",
-      "artist": "25時、ナイトコードで。",
-      "has_synced": true,
-      "path": "select/01_とても素敵な六月でした_25時、ナイトコードで。.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
       "title": "とても素敵な六月でした (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)",
       "artist": "25時、ナイトコードで。",
       "has_synced": true,
-      "path": "select/02_とても素敵な六月でした_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "とても素敵な六月でした",
-      "artist": "Eight",
-      "has_synced": true,
-      "path": "select/03_とても素敵な六月でした_Eight.lrc"
+      "path": "select/01_とても素敵な六月でした_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.lrc"
     },
     {
       "id": "petitlyrics_1",
